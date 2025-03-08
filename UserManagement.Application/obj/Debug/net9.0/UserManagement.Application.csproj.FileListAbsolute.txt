@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\bin\Debug\net9.0\UserManagement.Application.deps.json
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\bin\Debug\net9.0\UserManagement.Application.dll
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\bin\Debug\net9.0\UserManagement.Application.pdb
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\bin\Debug\net9.0\UserManagement.Domain.dll
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\bin\Debug\net9.0\UserManagement.Domain.pdb
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserMana.22515BBA.Up2Date
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.dll
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\refint\UserManagement.Application.dll
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\UserManagement.Application.pdb
+C:\Users\user\Desktop\Projects\RaceConditionBankManagementApi\UserManagement.Application\obj\Debug\net9.0\ref\UserManagement.Application.dll
